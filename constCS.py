@@ -1,2 +1,2 @@
-HOST = '172.31.35.200'
-PORT = 5678
+HOST = 'localhost'  # endereço do servidor (use o IP da máquina para testes em rede)
+PORT = 5678         # porta TCP em que o servidor escuta
